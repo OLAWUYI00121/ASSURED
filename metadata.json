@@ -1,0 +1,6 @@
+{
+  "name": "Assured Security Services",
+  "description": "High-fidelity copy and replacement for the Assured Security Services website, providing premium private asset protection, 24/7 monitoring, secure storage, and escort services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
